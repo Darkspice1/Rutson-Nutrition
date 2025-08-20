@@ -1,4 +1,4 @@
-# Food Scan AI
+#Rutson Nutrition AI
 
 A comprehensive nutrition analysis platform that helps users track their nutritional intake by analyzing food product labels and meals using AI. Built with a Flutter frontend and Spring Boot backend, leveraging Google Cloud's Vertex AI for intelligent food analysis.
 
