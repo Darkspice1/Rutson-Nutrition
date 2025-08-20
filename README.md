@@ -82,8 +82,8 @@ Food Scan AI follows a modern, scalable architecture:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/nikhileshmeher0204/read_the_label.git
-cd read_the_label
+git clone https://github.com/Darkspice1/Rutson-Nutrition.git
+cd Rutson-Nutrition
 ```
 
 2. Navigate to the Flutter app directory
